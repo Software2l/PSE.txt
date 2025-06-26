@@ -1,0 +1,30 @@
+request the user to enter a positive number repeatedly
+from number 1 is the smallest and 9 is the largest
+then the numbers in between 1 and 9 are 2,3,4,5,6,7,8
+print the largest number
+
+
+request input from the user
+the input name is Hello, world
+store input into variable called first-name
+the input is equal to first-name
+printout phrase Hello, world
+
+
+request an integer from the user
+read the following numbers :2,4,5,6,3
+add all the numbers anddevide by 5
+printthe arithmetic average
+
+
+request the user to buy
+set the list of grosery: banana, coffee, maize, milk and oats
+the user buys coffee and milk
+oats, banana and maize are left on the list
+read out the list left alphabetically
+
+request user to read X, Y
+X=2 and Y=4
+then write the sum of S
+then write the sum of A
+then write the sum of P
